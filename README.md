@@ -16,7 +16,7 @@ Si7021_A20.querySI(address=0x40)
 ```
 
 ## Ensuring manufactured precision rating
-To ensure that the precision specified by the manufacturer of ± 3% RH (max) at 0–80% RH was indeed met, a fix humidity was created according to ASTM standard E104 – 02 (2012) (standard practice for maintaining constant relative humidity by means of aqueous solutions).
+To ensure that the precision specified by the manufacturer of ± 3 % RH (max) at 0 – 80 % RH was indeed met, a fix humidity was created according to ASTM standard E104 – 02 (2012) (standard practice for maintaining constant relative humidity by means of aqueous solutions).
 1. 50ml of a salts listed in Table 1 were poured into a 500ml erlenmeyer flask.
 2. A saturated soltion was created by adding just enough deionized water to fill it's void space. The mixture was stirred.
 3. The RH sensor was placed inside the top portion of the flask.
